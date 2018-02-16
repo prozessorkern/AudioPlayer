@@ -1,0 +1,25 @@
+Source:	C:\Users\Stefan\Dropbox\STL\Ostergarten Audioplayer\Leiterplattenentwurf\Prototyp2\Audioplayer_OG_Prototyp.sch
+Date:	02.12.2015 20:48:44
+Tool:	Eeschema (2015-11-29 BZR 6336, Git 7b0d981)-product
+Component Count:	57
+Ref	Value	Part	Documentation	Description	Vendor
+C1	1u	device:CP		Polarised capacitor	
+C10	2u2	device:C		Unpolarized capacitor	
+C11	100n	device:C		Unpolarized capacitor	
+C12	100n	device:C		Unpolarized capacitor	
+C13	100n	device:C		Unpolarized capacitor	
+C14	2u2	device:C		Unpolarized capacitor	
+C15	100n	device:C		Unpolarized capacitor	
+C16	2u2	device:C		Unpolarized capacitor	
+C17	100n	device:C		Unpolarized capacitor	
+C18	20p	device:C		Unpolarized capacitor	
+C19	20p	device:C		Unpolarized capacitor	
+C2	1u	device:CP		Polarised capacitor	
+C3	220n	device:C		Unpolarized capacitor	
+C4	220n	device:C		Unpolarized capacitor	
+C5	470u	device:CP		Polarised capacitor	
+C6	100n	device:C		Unpolarized capacitor	
+C7	100n	device:C		Unpolarized capacitor	
+C8	2u2	device:C		Unpolarized capacitor	
+C9	2u2	device:C		Unpolarized capacitor	
+CON1	Micro_SD	connectors:Micro_SD			
